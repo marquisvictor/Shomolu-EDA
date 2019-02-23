@@ -1,0 +1,182 @@
+Gender,Age,Marital_Status,Education,Household_Income_Per_Month,Occupation,Rent_Per_Month,Tenancy_Type,Mode_Of_Transportation
+female,over 50,married,secondary,20000 and below,Trading and commerce,5001 - 10000,Rented,Foot
+male,21 - 30,single,secondary,20000 and below,Trading and commerce,5001 - 10000,Rented,public transport
+male,41 - 50,married,Tetiary,80001 - 100000,Trading and commerce,5001 - 10000,Rented,public transport
+male,31 - 40,,Tetiary,80001 - 100000,Trading and commerce,5001 - 10000,Rented,public transport
+female,31 - 40,married,Tetiary,80001 - 100000,Trading and commerce,Below 5000,Rented,public transport
+male,21 - 30,single,secondary,40001 - 60000,retired,5001 - 10000,Rented,public transport
+female,over 50,married,Tetiary,40001 - 60000,Trading and commerce,Below 5000,owner of dwelling place,private vehicle
+male,over 50,married,Tetiary,80001 - 100000,civil service,,owner of dwelling place,private vehicle
+male,under 20,single,secondary,80001 - 100000,Trading and commerce,10001 - 20000,Rented,public transport
+male,under 20,single,secondary,20001 - 40000,Trading and commerce,10001 - 20000,Rented,public transport
+female,41 - 50,divorced,primary,60001 - 80000,Trading and commerce,5001 - 10000,Rented,public transport
+male,31 - 40,married,Tetiary,40001 - 60000,industrial worker,Below 5000,Family House/inheritance,public transport
+male,21 - 30,married,secondary,20001 - 40000,Trading and commerce,10001 - 20000,Rented,public transport
+female,41 - 50,married,Tetiary,40001 - 60000,civil service,,,public transport
+male,21 - 30,married,Tetiary,20001 - 40000,artisan?,5001 - 10000,Rented,public transport
+female,under 20,single,secondary,20000 and below,Trading and commerce,Below 5000,Rented,public transport
+male,21 - 30,single,secondary,20000 and below,Trading and commerce,5001 - 10000,Rented,public transport
+male,21 - 30,single,Tetiary,20001 - 40000,artisan?,5001 - 10000,Rented,public transport
+female,21 - 30,single,primary,20000 and below,Trading and commerce,,Rented,public transport
+male,21 - 30,single,secondary,20000 and below,Trading and commerce,5001 - 10000,Rented,public transport
+male,41 - 50,married,Tetiary,20000 and below,civil service,5001 - 10000,owner of dwelling place,moterbike/okada
+male,31 - 40,single,Tetiary,20001 - 40000,Trading and commerce,Below 5000,Rented,public transport
+male,21 - 30,single,Tetiary,40001 - 60000,Trading and commerce,20001 - 30000,Rented,private vehicle
+male,21 - 30,single,secondary,20000 and below,Trading and commerce,above 30000,Rented,public transport
+male,21 - 30,single,Tetiary,Above 100000,civil service,5001 - 10000,Rented,public transport
+male,31 - 40,married,secondary,40001 - 60000,Trading and commerce,20001 - 30000,Rented,public transport
+male,31 - 40,single,Tetiary,Above 100000,industrial worker,5001 - 10000,Rented,public transport
+male,31 - 40,,Tetiary,80001 - 100000,Trading and commerce,,owner of dwelling place,public transport
+male,21 - 30,single,Tetiary,,,20001 - 30000,Rented,private vehicle
+female,21 - 30,single,Tetiary,80001 - 100000,Trading and commerce,20001 - 30000,Rented,private vehicle
+male,31 - 40,married,Tetiary,Above 100000,industrial worker,20001 - 30000,Rented,private vehicle
+female,21 - 30,single,secondary,20001 - 40000,artisan?,5001 - 10000,Rented,public transport
+female,41 - 50,married,secondary,40001 - 60000,Trading and commerce,5001 - 10000,Rented,
+female,31 - 40,married,secondary,20001 - 40000,Trading and commerce,5001 - 10000,Rented,private vehicle
+male,21 - 30,single,Tetiary,20001 - 40000,artisan?,Below 5000,Rented,public transport
+male,31 - 40,married,Tetiary,Above 100000,Trading and commerce,,Family House/inheritance,Foot
+female,over 50,married,Tetiary,40001 - 60000,Trading and commerce,20001 - 30000,Rented,public transport
+male,41 - 50,married,secondary,20000 and below,Trading and commerce,10001 - 20000,Rented,public transport
+male,21 - 30,single,Tetiary,20001 - 40000,Trading and commerce,,Family House/inheritance,public transport
+male,31 - 40,married,others,80001 - 100000,Trading and commerce,20001 - 30000,Rented,public transport
+female,31 - 40,married,Tetiary,60001 - 80000,Trading and commerce,20001 - 30000,Rented,private vehicle
+male,31 - 40,married,Tetiary,80001 - 100000,Trading and commerce,20001 - 30000,Rented,public transport
+male,over 50,seperated,secondary,,Trading and commerce,5001 - 10000,Rented,public transport
+male,41 - 50,married,secondary,20001 - 40000,8,Below 5000,Rented,public transport
+female,31 - 40,married,Tetiary,60001 - 80000,Trading and commerce,5001 - 10000,Rented,public transport
+female,31 - 40,married,,60001 - 80000,artisan?,5001 - 10000,Rented,Tricycle
+male,under 20,single,secondary,40001 - 60000,Others,Below 5000,Rented,public transport
+female,21 - 30,single,Tetiary,,Trading and commerce,above 30000,Rented,public transport
+male,31 - 40,married,Tetiary,20001 - 40000,Trading and commerce,5001 - 10000,Rented,public transport
+female,21 - 30,married,others,40001 - 60000,Trading and commerce,5001 - 10000,Rented,public transport
+female,41 - 50,married,Tetiary,80001 - 100000,Trading and commerce,20001 - 30000,Rented,private vehicle
+male,31 - 40,married,Tetiary,20000 and below,Trading and commerce,Below 5000,Rented,public transport
+male,31 - 40,married,primary,20000 and below,Trading and commerce,Below 5000,Rented,private vehicle
+female,21 - 30,single,Tetiary,20000 and below,Trading and commerce,Below 5000,Rented,public transport
+female,over 50,married,primary,20000 and below,Trading and commerce,Below 5000,Rented,public transport
+female,41 - 50,married,Tetiary,20001 - 40000,Trading and commerce,5001 - 10000,Rented,public transport
+female,41 - 50,married,secondary,20000 and below,Trading and commerce,Below 5000,Rented,public transport
+male,31 - 40,married,secondary,20001 - 40000,artisan?,,Family House/inheritance,public transport
+female,21 - 30,married,secondary,20001 - 40000,Trading and commerce,Below 5000,Rented,public transport
+female,over 50,married,secondary,20000 and below,civil service,Below 5000,Rented,public transport
+female,,married,secondary,,,,,
+male,41 - 50,married,secondary,,Trading and commerce,10001 - 20000,Rented,public transport
+female,31 - 40,married,secondary,20001 - 40000,artisan?,Below 5000,Rented,public transport
+female,41 - 50,married,secondary,40001 - 60000,Trading and commerce,5001 - 10000,Rented,public transport
+male,under 20,single,secondary,60001 - 80000,,5001 - 10000,Rented,public transport
+male,under 20,single,secondary,,,5001 - 10000,Rented,public transport
+male,21 - 30,single,secondary,20000 and below,artisan?,Below 5000,Rented,public transport
+male,31 - 40,married,secondary,60001 - 80000,artisan?,10001 - 20000,Rented,public transport
+male,under 20,single,secondary,20000 and below,Others,5001 - 10000,Rented,public transport
+male,under 20,single,secondary,,,Below 5000,Rented,public transport
+male,under 20,single,secondary,Above 100000,,10001 - 20000,Rented,private vehicle
+male,under 20,single,secondary,Above 100000,Others,above 30000,Rented,public transport
+male,under 20,single,secondary,Above 100000,Others,above 30000,Rented,public transport
+female,under 20,single,secondary,60001 - 80000,Others,20001 - 30000,Rented,public transport
+female,under 20,single,secondary,Above 100000,Others,above 30000,Rented,public transport
+male,under 20,single,secondary,,Others,,Rented,public transport
+female,31 - 40,married,primary,20001 - 40000,Trading and commerce,5001 - 10000,Rented,public transport
+male,31 - 40,single,Tetiary,20001 - 40000,artisan?,Below 5000,Rented,public transport
+male,31 - 40,married,secondary,40001 - 60000,Trading and commerce,Below 5000,Rented,public transport
+male,under 20,single,secondary,40001 - 60000,Trading and commerce,Below 5000,Rented,public transport
+male,under 20,single,secondary,Above 100000,,,owner of dwelling place,public transport
+male,21 - 30,single,secondary,40001 - 60000,artisan?,20001 - 30000,Rented,public transport
+male,31 - 40,married,Tetiary,20001 - 40000,Trading and commerce,5001 - 10000,Rented,public transport
+male,21 - 30,single,Tetiary,40001 - 60000,Trading and commerce,20001 - 30000,Rented,private vehicle
+male,21 - 30,single,secondary,20000 and below,Trading and commerce,above 30000,Rented,public transport
+female,31 - 40,married,secondary,40001 - 60000,Trading and commerce,20001 - 30000,Rented,public transport
+male,21 - 30,single,Tetiary,Above 100000,industrial worker,5001 - 10000,Rented,public transport
+male,31 - 40,single,Tetiary,Above 100000,industrial worker,,owner of dwelling place,public transport
+male,41 - 50,married,Tetiary,80001 - 100000,Trading and commerce,,owner of dwelling place,public transport
+female,21 - 30,single,Tetiary,,,20001 - 30000,Rented,private vehicle
+male,over 50,married,Tetiary,,retired,,owner of dwelling place,public transport
+female,under 20,single,secondary,20000 and below,Trading and commerce,5001 - 10000,Rented,public transport
+male,21 - 30,seperated,Tetiary,40001 - 60000,Trading and commerce,10001 - 20000,Rented,private vehicle
+male,41 - 50,married,Tetiary,40001 - 60000,civil service,10001 - 20000,Rented,private vehicle
+male,under 20,single,Tetiary,20001 - 40000,Trading and commerce,5001 - 10000,Rented,public transport
+male,over 50,married,Tetiary,Above 100000,industrial worker,,owner of dwelling place,private vehicle
+female,41 - 50,married,primary,20000 and below,Trading and commerce,Below 5000,Rented,public transport
+male,21 - 30,single,Tetiary,20001 - 40000,artisan?,,Family House/inheritance,public transport
+male,under 20,single,secondary,20000 and below,Others,5001 - 10000,Rented,public transport
+male,under 20,single,secondary,20000 and below,,10001 - 20000,Rented,public transport
+female,31 - 40,married,Tetiary,20001 - 40000,Trading and commerce,10001 - 20000,Rented,public transport
+male,31 - 40,married,Tetiary,40001 - 60000,Trading and commerce,20001 - 30000,Rented,public transport
+male,over 50,married,secondary,20001 - 40000,Trading and commerce,above 30000,Rented,private vehicle
+female,41 - 50,married,primary,20001 - 40000,Trading and commerce,,owner of dwelling place,public transport
+male,over 50,married,secondary,40001 - 60000,Trading and commerce,5001 - 10000,Rented,public transport
+female,41 - 50,married,secondary,20001 - 40000,Trading and commerce,Below 5000,Rented,public transport
+female,41 - 50,single,secondary,20001 - 40000,artisan?,Below 5000,Rented,public transport
+female,31 - 40,married,Tetiary,Above 100000,Trading and commerce,Below 5000,Rented,public transport
+male,41 - 50,married,others,,artisan?,,owner of dwelling place,public transport
+male,41 - 50,married,primary,20001 - 40000,artisan?,5001 - 10000,Rented,public transport
+female,21 - 30,single,secondary,20001 - 40000,Trading and commerce,,Rented,public transport
+female,31 - 40,married,others,80001 - 100000,,above 30000,Rented,private vehicle
+female,over 50,married,secondary,Above 100000,Trading and commerce,,owner of dwelling place,private vehicle
+male,41 - 50,married,secondary,20001 - 40000,artisan?,,owner of dwelling place,public transport
+male,31 - 40,married,secondary,20001 - 40000,artisan?,Below 5000,Rented,public transport
+male,under 20,single,secondary,80001 - 100000,,,Family House/inheritance,public transport
+male,under 20,single,Tetiary,Above 100000,,5001 - 10000,Rented,private vehicle
+female,under 20,single,secondary,,,Below 5000,Rented,private vehicle
+female,under 20,single,secondary,,,above 30000,Rented,private vehicle
+female,under 20,single,secondary,,,Below 5000,Rented,public transport
+female,under 20,single,secondary,20001 - 40000,Others,above 30000,others,public transport
+female,under 20,single,secondary,Above 100000,Others,above 30000,others,public transport
+female,31 - 40,married,secondary,,Trading and commerce,5001 - 10000,Rented,
+female,41 - 50,married,secondary,20000 and below,artisan?,5001 - 10000,Rented,Others
+,31 - 40,married,Tetiary,40001 - 60000,Others,5001 - 10000,Rented,public transport
+male,31 - 40,single,Tetiary,20001 - 40000,Trading and commerce,10001 - 20000,Rented,private vehicle
+male,41 - 50,married,secondary,20000 and below,Trading and commerce,5001 - 10000,Rented,public transport
+female,41 - 50,married,Tetiary,,,,,
+female,31 - 40,married,Tetiary,80001 - 100000,Trading and commerce,above 30000,Rented,private vehicle
+female,21 - 30,single,Tetiary,20000 and below,Others,,Family House/inheritance,public transport
+female,21 - 30,single,Tetiary,40001 - 60000,industrial worker,5001 - 10000,Rented,private vehicle
+female,under 20,single,Tetiary,20001 - 40000,Others,above 30000,Rented,
+male,21 - 30,married,secondary,20000 and below,Trading and commerce,Below 5000,Rented,public transport
+female,21 - 30,single,Tetiary,20000 and below,Others,5001 - 10000,Rented,public transport
+female,21 - 30,single,Tetiary,20000 and below,Trading and commerce,5001 - 10000,Rented,public transport
+female,31 - 40,married,Tetiary,20001 - 40000,civil service,5001 - 10000,Rented,public transport
+male,31 - 40,married,Tetiary,60001 - 80000,civil service,5001 - 10000,Rented,private vehicle
+female,over 50,married,secondary,20000 and below,Trading and commerce,Below 5000,Rented,public transport
+male,41 - 50,married,Tetiary,40001 - 60000,industrial worker,5001 - 10000,Rented,private vehicle
+male,over 50,married,secondary,60001 - 80000,Trading and commerce,,owner of dwelling place,private vehicle
+,21 - 30,single,Tetiary,20000 and below,,5001 - 10000,Rented,public transport
+female,41 - 50,married,primary,,Trading and commerce,5001 - 10000,Rented,public transport
+female,41 - 50,married,secondary,80001 - 100000,Trading and commerce,above 30000,Rented,private vehicle
+male,,single,Tetiary,20001 - 40000,Trading and commerce,above 30000,owner of dwelling place,public transport
+female,31 - 40,married,Tetiary,20001 - 40000,Trading and commerce,above 30000,Rented,private vehicle
+female,31 - 40,married,secondary,60001 - 80000,Trading and commerce,10001 - 20000,Rented,public transport
+male,31 - 40,single,secondary,20001 - 40000,Trading and commerce,5001 - 10000,Rented,public transport
+male,31 - 40,married,secondary,20000 and below,industrial worker,5001 - 10000,Rented,public transport
+male,over 50,married,Tetiary,60001 - 80000,civil service,5001 - 10000,Rented,private vehicle
+male,21 - 30,single,Tetiary,20000 and below,,Below 5000,Rented,public transport
+male,31 - 40,married,Tetiary,20000 and below,industrial worker,Below 5000,Rented,public transport
+male,41 - 50,married,primary,20000 and below,artisan?,5001 - 10000,Rented,private vehicle
+male,under 20,single,secondary,,,above 30000,,private vehicle
+female,31 - 40,married,others,,Trading and commerce,,Rented,public transport
+male,31 - 40,married,Tetiary,Above 100000,Others,above 30000,Rented,private vehicle
+male,41 - 50,married,others,Above 100000,Trading and commerce,above 30000,Rented,private vehicle
+female,over 50,married,secondary,Above 100000,Trading and commerce,20001 - 30000,Rented,public transport
+female,under 20,single,Tetiary,20001 - 40000,Trading and commerce,10001 - 20000,Rented,public transport
+male,21 - 30,single,secondary,20001 - 40000,Others,20001 - 30000,Rented,public transport
+male,21 - 30,single,Tetiary,20000 and below,,5001 - 10000,Rented,public transport
+female,31 - 40,married,Tetiary,20000 and below,,5001 - 10000,Rented,public transport
+male,41 - 50,married,Tetiary,20001 - 40000,Trading and commerce,5001 - 10000,Rented,public transport
+female,31 - 40,married,Tetiary,20000 and below,Trading and commerce,20001 - 30000,Rented,private vehicle
+male,41 - 50,married,secondary,20001 - 40000,civil service,,Family House/inheritance,private vehicle
+male,31 - 40,married,Tetiary,60001 - 80000,Trading and commerce,20001 - 30000,Rented,private vehicle
+female,under 20,single,Tetiary,,,20001 - 30000,Rented,private vehicle
+female,21 - 30,single,secondary,20000 and below,Trading and commerce,,Family House/inheritance,public transport
+female,over 50,married,primary,20000 and below,Trading and commerce,5001 - 10000,Rented,public transport
+female,21 - 30,married,Tetiary,20000 and below,Trading and commerce,,Family House/inheritance,public transport
+female,31 - 40,married,secondary,20001 - 40000,Trading and commerce,10001 - 20000,Rented,private vehicle
+female,under 20,single,Tetiary,,Trading and commerce,10001 - 20000,Rented,private vehicle
+male,over 50,married,Tetiary,20000 and below,retired,,owner of dwelling place,private vehicle
+female,under 20,,Tetiary,20000 and below,Trading and commerce,Below 5000,Rented,public transport
+male,31 - 40,single,Tetiary,20000 and below,industrial worker,Below 5000,Rented,public transport
+male,41 - 50,married,Tetiary,Above 100000,civil service,,,
+female,41 - 50,divorced,secondary,40001 - 60000,Trading and commerce,5001 - 10000,Rented,public transport
+female,21 - 30,single,Tetiary,20000 and below,,5001 - 10000,Rented,public transport
+male,21 - 30,married,Tetiary,20001 - 40000,Trading and commerce,5001 - 10000,owner of dwelling place,public transport
+male,31 - 40,single,Tetiary,20001 - 40000,industrial worker,5001 - 10000,Rented,public transport
+female,under 20,single,secondary,,,20001 - 30000,Rented,public transport
+female,31 - 40,seperated,primary,20001 - 40000,Trading and commerce,5001 - 10000,Rented,public transport
